@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schallergergo
 - 👀 I’m interested in web develepment
-- 🌱 I’m currently learning VUE
+
 - 💞️ I’m looking to collaborate on Laravel projects
 - 📫 info@schallergergo.hu
 
